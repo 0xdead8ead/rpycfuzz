@@ -8,5 +8,5 @@ Microsoft RPC Fuzzer
     * Query Endpoints
     * Connx to Endpoint
 
-        * Send data to RPC function
-        * Retern output to RPC funx
+            * Send data to RPC function
+            * Retern output to RPC funx
