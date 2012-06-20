@@ -8,4 +8,13 @@ Microsoft RPC Fuzzer
 * Query Endpoints
 * Connx to Endpoint
 * Send data to RPC function
-* Return output to RPC funx
+* Return output from RPC function
+
+## Dependencies
+
+* Impacket - https://code.google.com/p/impacket/
+
+    svn checkout http://impacket.googlecode.com/svn/trunk/ impacket-read-only impacket
+
+    cd impacket
+    sudo python setup.py install
