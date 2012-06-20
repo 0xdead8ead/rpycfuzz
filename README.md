@@ -14,7 +14,7 @@ Microsoft RPC Fuzzer
 
 * Impacket - https://code.google.com/p/impacket/
 
-        svn checkout http://impacket.googlecode.com/svn/trunk/ impacket-read-only impacket
+        svn checkout http://impacket.googlecode.com/svn/trunk/ impacket
 
         cd impacket
         sudo python setup.py install
