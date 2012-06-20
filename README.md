@@ -1,5 +1,4 @@
-rpycfuzz
-========
+# rpycfuzz
 
 Microsoft RPC Fuzzer
 
