@@ -12,9 +12,13 @@ Microsoft RPC Fuzzer
 
 ## Dependencies
 
-* Impacket - https://code.google.com/p/impacket/
+* Mono - http://www.mono-project.com/Main_Page
 
-        svn checkout http://impacket.googlecode.com/svn/trunk/ impacket
+        http://www.go-mono.com/mono-downloads/download.html
+	
+        
+* Peach Fuzzer 3 Beta 1 - http://forums.peachfuzzer.com/showthread.php?1-Peach-3-BETA-1
 
-        cd impacket
-        sudo python setup.py install
+	git clone git://git.code.sf.net/p/peachfuzz/code peachfuzzer-3.0b1
+
+* Python 2.7 - http://python.org/download/
